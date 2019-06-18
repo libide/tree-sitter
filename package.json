@@ -21,7 +21,6 @@
     "lib/src/lexer.c",
     "lib/src/lexer.h",
     "lib/src/lib.c",
-    "lib/src/lib.o",
     "lib/src/node.c",
     "lib/src/parser.c",
     "lib/src/point.h",
