@@ -37,6 +37,6 @@
     "lib/src/utf16.h"
   ],
   "dependencies": {
-    "utf8proc": "v2.4.0"
+    "libide/utf8proc": "v2.4.0"
   }
 }
