@@ -8,6 +8,8 @@
     "incremental", "parsing", "c", "tree-sitter"
   ],
   "src": [
+    "lib/include/tree_sitter/api.h",
+    "lib/include/tree_sitter/parser.h",
     "lib/src/alloc.h",
     "lib/src/array.h",
     "lib/src/atomic.h",
